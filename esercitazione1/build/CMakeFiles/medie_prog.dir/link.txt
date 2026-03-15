@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wl,--dependency-file=CMakeFiles/medie_prog.dir/link.d CMakeFiles/medie_prog.dir/media_temp.cpp.o -o medie_prog
