@@ -1,0 +1,32 @@
+Nelgi array l'i-esimo elemento si trova all'indirizzo: base + i*sizeof(T)
+
+Indirizzi degli elementi dell'array double[ad] 
+Elemento 0:	0x7ffe2e4a79c0
+Elemento 1:	0x7ffe2e4a79c8
+Elemento 2:	0x7ffe2e4a79d0
+Elemento 3:	0x7ffe2e4a79d8
+(sizeof=8byte), infatti gli elementi sono scalati di 8 byte
+
+Indirizzi degli elementi dell'array float[af] 
+Elemento 0:	0x7ffe2e4a79a0
+Elemento 1:	0x7ffe2e4a79a4
+Elemento 2:	0x7ffe2e4a79a8
+Elemento 3:	0x7ffe2e4a79ac
+Elemento 4:	0x7ffe2e4a79b0
+Elemento 5:	0x7ffe2e4a79b4
+Elemento 6:	0x7ffe2e4a79b8
+Elemento7:	0x7ffe2e4a79bc
+(sizeof=4byte), infatti gli elementi sono scalati di 4 byte
+
+Indirizzi degli elementi dell'array int[ai] 
+Elemento 0:	0x7ffe2e4a7994
+Elemento 1:	0x7ffe2e4a7998
+Elemento 2:	0x7ffe2e4a799c
+(sizeof=4byte), infatti gli elementi sono scalati di 4 byte. 
+
+Indirizzi delle variabili x e y. 
+Indirizzo di x:	0x7ffe2e4a7990
+Indirizzo di y:	0x7ffe2e4a798c
+Dalle ultime due cifre, possiamo vedere che la y è memorizzata prima della x (considerando la base esadecimale y=8c mentre x=90). 
+Nel codice, il comando "(&y)[1] = 0;" è come fare "(&y)[1] =base + 1*sizeof(float)", dove 1 è il valore corrispondente dentro la parentesi quadra e float corrisponde a 4 byte, per definizione. Quindi è come se y fosse la base e il suo valore successivo che è la x venisse aggiornato a 0, da qui si spiega perché quando compiliamo il codice e lo eseguiamo il valore in output è zero e non 1. 
+
