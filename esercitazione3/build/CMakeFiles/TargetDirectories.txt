@@ -1,0 +1,3 @@
+/home/pcsdocker/Data/esercitazione_PCS/esercitazione3/build/CMakeFiles/esercizio_razionali.dir
+/home/pcsdocker/Data/esercitazione_PCS/esercitazione3/build/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/esercitazione_PCS/esercitazione3/build/CMakeFiles/rebuild_cache.dir
