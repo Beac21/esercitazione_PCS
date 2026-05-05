@@ -1,0 +1,180 @@
+Start testing: May 05 09:48 UTC
+----------------------------------------------------------
+1/5 Testing: bubblesort
+1/5 Test: bubblesort
+Command: "/home/pcsdocker/Data/esercitazione_PCS/esercitazione5/build/test_bubblesort"
+Directory: /home/pcsdocker/Data/esercitazione_PCS/esercitazione5/build
+"bubblesort" start time: May 05 09:48 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"bubblesort" end time: May 05 09:48 UTC
+"bubblesort" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/5 Testing: insertionsort
+2/5 Test: insertionsort
+Command: "/home/pcsdocker/Data/esercitazione_PCS/esercitazione5/build/test_insertionsort"
+Directory: /home/pcsdocker/Data/esercitazione_PCS/esercitazione5/build
+"insertionsort" start time: May 05 09:48 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"insertionsort" end time: May 05 09:48 UTC
+"insertionsort" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/5 Testing: selectionsort
+3/5 Test: selectionsort
+Command: "/home/pcsdocker/Data/esercitazione_PCS/esercitazione5/build/test_selectionsort"
+Directory: /home/pcsdocker/Data/esercitazione_PCS/esercitazione5/build
+"selectionsort" start time: May 05 09:48 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"selectionsort" end time: May 05 09:48 UTC
+"selectionsort" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/5 Testing: quicksort
+4/5 Test: quicksort
+Command: "/home/pcsdocker/Data/esercitazione_PCS/esercitazione5/build/test_quicksort"
+Directory: /home/pcsdocker/Data/esercitazione_PCS/esercitazione5/build
+"quicksort" start time: May 05 09:48 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"quicksort" end time: May 05 09:48 UTC
+"quicksort" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/5 Testing: mergesort
+5/5 Test: mergesort
+Command: "/home/pcsdocker/Data/esercitazione_PCS/esercitazione5/build/test_mergesort"
+Directory: /home/pcsdocker/Data/esercitazione_PCS/esercitazione5/build
+"mergesort" start time: May 05 09:48 UTC
+Output:
+----------------------------------------------------------
+Test 0 dim=84
+Test 1 dim=87
+Test 2 dim=78
+Test 3 dim=16
+Test 4 dim=94
+Test 5 dim=36
+Test 6 dim=87
+Test 7 dim=93
+Test 8 dim=50
+Test 9 dim=22
+Test 10 dim=63
+Test 11 dim=28
+Test 12 dim=91
+Test 13 dim=60
+Test 14 dim=64
+Test 15 dim=27
+Test 16 dim=41
+Test 17 dim=27
+Test 18 dim=73
+Test 19 dim=37
+Test 20 dim=12
+Test 21 dim=69
+Test 22 dim=68
+Test 23 dim=30
+Test 24 dim=83
+Test 25 dim=31
+Test 26 dim=63
+Test 27 dim=24
+Test 28 dim=68
+Test 29 dim=36
+Test 30 dim=30
+Test 31 dim=3
+Test 32 dim=23
+Test 33 dim=59
+Test 34 dim=70
+Test 35 dim=68
+Test 36 dim=94
+Test 37 dim=57
+Test 38 dim=12
+Test 39 dim=43
+Test 40 dim=30
+Test 41 dim=74
+Test 42 dim=22
+Test 43 dim=20
+Test 44 dim=85
+Test 45 dim=38
+Test 46 dim=99
+Test 47 dim=25
+Test 48 dim=16
+Test 49 dim=71
+Test 50 dim=14
+Test 51 dim=27
+Test 52 dim=92
+Test 53 dim=81
+Test 54 dim=57
+Test 55 dim=74
+Test 56 dim=63
+Test 57 dim=71
+Test 58 dim=97
+Test 59 dim=82
+Test 60 dim=6
+Test 61 dim=26
+Test 62 dim=85
+Test 63 dim=28
+Test 64 dim=37
+Test 65 dim=6
+Test 66 dim=47
+Test 67 dim=30
+Test 68 dim=14
+Test 69 dim=58
+Test 70 dim=25
+Test 71 dim=96
+Test 72 dim=83
+Test 73 dim=46
+Test 74 dim=15
+Test 75 dim=68
+Test 76 dim=35
+Test 77 dim=65
+Test 78 dim=44
+Test 79 dim=51
+Test 80 dim=88
+Test 81 dim=9
+Test 82 dim=77
+Test 83 dim=79
+Test 84 dim=89
+Test 85 dim=85
+Test 86 dim=4
+Test 87 dim=52
+Test 88 dim=55
+Test 89 dim=100
+Test 90 dim=33
+Test 91 dim=61
+Test 92 dim=77
+Test 93 dim=69
+Test 94 dim=40
+Test 95 dim=13
+Test 96 dim=27
+Test 97 dim=87
+Test 98 dim=95
+Test 99 dim=40
+Inizio stringhe
+Fine stringhe
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"mergesort" end time: May 05 09:48 UTC
+"mergesort" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 05 09:48 UTC
